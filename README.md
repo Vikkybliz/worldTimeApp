@@ -1,10 +1,19 @@
-# weather
+# World Time App
 
-A Weather App
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Introduction
+
+An app that gives time based on the location selected
+
+
+## Dependencies
+
+- Flutter Spinkit
+- Intl
+
+## Api
+- World Time Api
 
 A few resources to get you started if this is your first Flutter project:
 
