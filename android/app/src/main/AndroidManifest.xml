@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="vikkybliz.com.weather">
+    <uses-permission android:name="android.permission.INTERNET"/> 
    <application
         android:label="weather"
         android:icon="@mipmap/ic_launcher">
